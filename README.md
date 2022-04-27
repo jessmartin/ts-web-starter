@@ -4,15 +4,16 @@ This is a super-simple starter repository for writing a front-end web applicatio
 
 ## Getting started
 
-1. Clone the repo locally.
+1. Copy the repo locally using `degit`.
 
    ```bash
-   git clone git@github.com:jessmartin/ts-web-starter
+   npx degit git@github.com:jessmartin/ts-web-starter PROJECT_NAME
    ```
 
 2. Install the dependencies.
 
    ```bash
+   cd PROJECT_NAME
    yarn install
    ```
 
