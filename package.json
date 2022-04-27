@@ -1,0 +1,16 @@
+{
+  "name": "ts-web-starter",
+  "description": "Simple starter repo for a web app with TypeScript and plain HTML/CSS.",
+  "version": "0.0.1",
+  "main": "./src/app.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "@web/dev-server": "^0.1.31",
+    "typescript": "^4.6.3"
+  },
+  "scripts": {
+    "ts": "tsc -w",
+    "serve": "cd public && web-dev-server --node-resolve --watch --open --app-index index.html",
+    "start": "yarn ts & yarn serve"
+  }
+}
