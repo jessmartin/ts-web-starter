@@ -1,3 +1,9 @@
+# DEPRECATED
+
+Instead, use the [Vite TypeScript Template](https://github.com/vitejs/create-vite-app/tree/master/template-vue-ts).
+
+To start quickly, use [the StackBlitz link](https://vite.new/vanilla-ts).
+
 # ts-web-starter
 
 This is a super-simple starter repository for writing a front-end web application in TypeScript. It uses plain HTML and CSS. Nothing fancy here.
