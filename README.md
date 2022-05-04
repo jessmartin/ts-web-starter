@@ -1,6 +1,6 @@
 # DEPRECATED
 
-Instead, use the [Vite TypeScript Template](https://github.com/vitejs/create-vite-app/tree/master/template-vue-ts).
+Instead, use the [Vite TypeScript Template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-vanilla-ts).
 
 To start quickly, use [the StackBlitz link](https://vite.new/vanilla-ts).
 
